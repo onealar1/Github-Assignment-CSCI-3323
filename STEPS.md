@@ -74,7 +74,7 @@
 
         d. I chose to keep the changes on the right, or the changes made to STEPS in the bug-fix branch
 
-        e. commit the changes from vs code
+        e. commit the changes from vs code called "Commit 5"
 
 ### Commit 6:
 
@@ -88,7 +88,7 @@
 
         b. select the files that were changed
 
-        c. add the message "Commit 3" and commit to the bug-fix branch
+        c. add the message "Commit 6" and commit to the bug-fix branch
 
         d. push to origin 
 
@@ -104,7 +104,7 @@
 
         b. select the files that were changed
 
-        c. add the message "Commit 3" and commit to the bug-fix branch
+        c. add the message "Commit 7" and commit to the bug-fix-experimental branch
 
         d. push to origin 
 
@@ -120,6 +120,20 @@
 
         b. select the files that were changed
 
-        c. add the message "Commit 3" and commit to the bug-fix branch
+        c. add the message "Commit 8" and commit to the bug-fix-experimental branch
+
+        d. push to origin 
+
+### Commit 9:
+
+    1 - added steps for commit 9
+
+    3 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 9" and commit to the bug-fix-experimental branch
 
         d. push to origin 
