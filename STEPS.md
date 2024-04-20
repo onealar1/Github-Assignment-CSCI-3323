@@ -30,7 +30,6 @@
 
         c. add the message "Commit 2" and commit to the main branch
 
-<<<<<<< HEAD
         d. push to origin
 
 ### Commit 3:
@@ -62,6 +61,33 @@
         c. add the message "Commit 3" and commit to the bug-fix branch
 
         d. push to origin
-=======
 
->>>>>>> main
+### Commit 5 - merge main & bug-fix:
+
+    1 - in guthub desktop:
+
+        a. select bug-fix as the current branch and main as the branch we want to merge into bug-fix
+
+        b. this merge caused a merge conflict, so I had to fix it by first going to vs code
+
+        c. in vs code there was a button to resolve the conflict
+
+        d. I chose to keep the changes on the right, or the changes made to STEPS in the bug-fix branch
+
+        e. commit the changes from vs code
+
+### Commit 6:
+
+    1 - added the steps for commit 5
+
+    2 - added a new branch from commit 4 called "bug-fix-experimental"
+
+    3 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 3" and commit to the bug-fix branch
+
+        d. push to origin 
