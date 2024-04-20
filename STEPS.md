@@ -137,3 +137,39 @@
         c. add the message "Commit 9" and commit to the bug-fix-experimental branch
 
         d. push to origin 
+
+### Commit 10:
+
+    1 - added due date in README in the main branch
+
+    2 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 10" and commit to the main branch
+
+        d. push to origin 
+
+### Commit 11 - merge bug-fix-experimental into bug-fix:
+
+    1 - selected the current branch as bug-fix and the branch to merge as bug-fix-experimental
+
+    2 - this created a merge conflict, so I had to go to vs code, select resolve in merge editor, select accept all changes from left, and then complete merge
+
+    3 - next I had to commit the changes from vs code called "Commit 11"
+
+### Commit 12:
+
+    1 - added steps for commit 10 and commit 11
+
+    2 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 12" and commit to the bug-fix branch
+
+        d. push to origin 
