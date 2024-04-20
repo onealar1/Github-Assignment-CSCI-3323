@@ -173,3 +173,27 @@
         c. add the message "Commit 12" and commit to the bug-fix branch
 
         d. push to origin 
+
+### Commit 13 - merge bug-fix into main:
+
+    1 - selected the current branch as main and the branch to merge as bug-fix
+
+    2 - this created a merge conflict on the README file, so I had to go to vs code, select resolve in merge editor, select accept all changes from right, and then complete merge
+
+    3 - next I had to commit the changes from vs code called "Commit 13"
+
+### Commit 14:
+
+    1 - added assignment objective to README
+
+    2 - added steps for commit 13 and commit 14
+
+    3 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 14" and commit to the main branch
+
+        d. push to origin 
