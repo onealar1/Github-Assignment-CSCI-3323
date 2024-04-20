@@ -34,9 +34,23 @@
 
 ### Commit 3:
 
-    1 - added name and class to README file
+    1 - added steps for commit 3
 
-    2 - added steps for commit 3
+    2 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 3" and commit to the bug-fix branch
+
+        d. push to origin
+
+### Commit 4:
+
+    1 - added steps for commit 4
+
+    2 - added name, class, and assignment in the README file
 
     3 - commit changes in github desktop
 
