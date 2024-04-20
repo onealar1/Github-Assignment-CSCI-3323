@@ -98,7 +98,23 @@
 
     2 - added steps for commit 7
 
-    2 - commit changes in github desktop
+    3 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 3" and commit to the bug-fix branch
+
+        d. push to origin 
+
+### Commit 8:
+
+    1 - added another meme
+
+    2 - added steps for commit 8
+
+    3 - commit changes in github desktop
 
         a. go to changes tab
 
