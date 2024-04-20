@@ -30,6 +30,7 @@
 
         c. add the message "Commit 2" and commit to the main branch
 
+<<<<<<< HEAD
         d. push to origin
 
 ### Commit 3:
@@ -61,3 +62,6 @@
         c. add the message "Commit 3" and commit to the bug-fix branch
 
         d. push to origin
+=======
+
+>>>>>>> main
