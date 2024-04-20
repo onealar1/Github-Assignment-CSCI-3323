@@ -18,3 +18,16 @@
 
         c. add the message "Commit 1" and commit to the main branch
 
+### Commit 2:
+
+    1 - added steps for commit 2 in the STEPS file
+
+    2 - commit changes in github desktop
+
+        a. go to changes tab
+
+        b. select the files that were changed
+
+        c. add the message "Commit 2" and commit to the main branch
+
+
